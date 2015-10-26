@@ -5,3 +5,7 @@
 .metadata/
 test-output/
 .pydevproject
+.class
+.ear
+.war
+.jar
